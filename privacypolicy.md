@@ -1,4 +1,4 @@
-Privacy Policy
+<h1>Privacy Policy</h1>
 
 StressHRGraph does not transmit, sell, or share your personal information or Garmin data with the developer or any third party.
 
